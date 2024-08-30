@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Modern Data Structures and Algorithms in Rust</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Modern Data Structures and Algorithms in Rust</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 29 Aug 2024 23:02:40 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deep Learning via Rust</title>
+      <link>http://localhost:1313/docs/introduction/</link>
+      <pubDate>Thu, 29 Aug 2024 22:44:08 +0700</pubDate>
+      <guid>http://localhost:1313/docs/introduction/</guid>
+      <description>💡&#xA;&amp;quot;The objective of deep learning is to develop models that are not only theoretically sound but also efficient and scalable, capable of being deployed in the real world across various applications.&amp;quot; — Yoshua Bengio&#xA;About DLVR link&#xD;&#34;Deep Learning via Rust&#34; or DLVR offers a comprehensive exploration of deep learning concepts and techniques through the lens of the Rust programming language, known for its performance and safety. The book begins by establishing a strong foundation in deep learning principles, mathematical underpinnings, and introduces essential Rust libraries for machine learning.</description>
+    </item>
+    <item>
+      <title>Table of Content</title>
+      <link>http://localhost:1313/docs/table-of-content/</link>
+      <pubDate>Thu, 29 Aug 2024 22:44:08 +0700</pubDate>
+      <guid>http://localhost:1313/docs/table-of-content/</guid>
+      <description>💡&#xA;&amp;quot;The most interesting thing about deep learning is not that we can recognize objects, but that we can start to build systems that can understand the world in complex ways.&amp;quot; — Geoffrey Hinton&#xA;DLVR is a cutting-edge guide that bridges the powerful capabilities of deep learning with the performance and safety of the Rust programming language. This book covers the foundational concepts of deep learning, explores a wide range of neural network architectures, and delves into advanced techniques like model optimization, self-supervised learning, and model interpretability.</description>
+    </item>
+    <item>
+      <title>Preface</title>
+      <link>http://localhost:1313/docs/article-1/</link>
+      <pubDate>Thu, 29 Aug 2024 20:26:24 +0700</pubDate>
+      <guid>http://localhost:1313/docs/article-1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Preface</title>
+      <link>http://localhost:1313/docs/preface/</link>
+      <pubDate>Thu, 29 Aug 2024 22:44:08 +0700</pubDate>
+      <guid>http://localhost:1313/docs/preface/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Foreword</title>
+      <link>http://localhost:1313/docs/foreword/</link>
+      <pubDate>Thu, 29 Aug 2024 22:44:08 +0700</pubDate>
+      <guid>http://localhost:1313/docs/foreword/</guid>
+      <description>💡&#xA;&amp;quot;I was born not knowing and have had only a little time to change that here and there.&amp;quot; — Richard Feynman&#xA;In the field of deep learning, Python has established itself as the de facto standard for neural network implementation, largely due to its user-friendly syntax and extensive libraries. However, in the development of this book, Deep Learning via Rust (DLVR), we have deliberately chosen Rust as the primary programming language.</description>
+    </item>
+    <item>
+      <title>Foreword</title>
+      <link>http://localhost:1313/docs/foreword-1/</link>
+      <pubDate>Thu, 29 Aug 2024 22:44:08 +0700</pubDate>
+      <guid>http://localhost:1313/docs/foreword-1/</guid>
+      <description>💡&#xA;&amp;quot;The important thing is not to stop questioning. Curiosity has its own reason for existing.&amp;quot; — Albert Einstein&#xA;This book, Deep Learning via Rust (DLVR), is an extension of the rigorous academic instruction provided in the Applied Deep Learning course at the Data Science Center (DSC) of the University of Indonesia (UI). The objective of this book is to equip students and practitioners with the most advanced and effective tools for deep learning training and deployment, ensuring they are well-prepared to address the increasingly complex challenges that define the frontier of artificial intelligence and machine learning.</description>
+    </item>
+    <item>
+      <title>Part I</title>
+      <link>http://localhost:1313/docs/part-i-main/</link>
+      <pubDate>Thu, 29 Aug 2024 23:02:40 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-i-main/</guid>
+      <description>💡&#xA;&amp;quot;Understanding the foundations of deep learning is like mastering the fundamentals of mathematics — it opens the door to infinite possibilities and applications.&amp;quot; — Yann LeCun&#xA;Part I of DLVR lays the essential groundwork for understanding deep learning by starting with an introduction to the field, explaining its core concepts, history, and the transformative impact it has had across industries. This section then delves into the mathematical foundations critical for grasping deep learning algorithms, covering topics such as linear algebra, calculus, and probability theory, which are crucial for developing and optimizing neural networks.</description>
+    </item>
+    <item>
+      <title>Chapter 1</title>
+      <link>http://localhost:1313/docs/part-i/chapter-1/</link>
+      <pubDate>Thu, 29 Aug 2024 22:44:07 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-i/chapter-1/</guid>
+      <description>📘 Chapter 1: Introduction to Deep Learning link&#xD;💡&#xA;&amp;quot;Deep learning will revolutionize AI, but we must build these systems on foundations that ensure safety, efficiency, and scalability—qualities that languages like Rust can provide.&amp;quot; — Yoshua Bengio&#xA;📘&#xA;Chapter 1 of DLVR offers a rigorous introduction to deep learning and its intersection with Rust programming. It begins with a historical overview, tracing the evolution of deep learning, and establishes foundational principles, including the pivotal role of neural networks and GPUs in training models.</description>
+    </item>
+    <item>
+      <title>Chapter 2</title>
+      <link>http://localhost:1313/docs/part-i/chapter-2/</link>
+      <pubDate>Thu, 29 Aug 2024 22:44:07 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-i/chapter-2/</guid>
+      <description>📘 Chapter 2: Mathematical Foundations for Deep Learning link&#xD;💡&#xA;&amp;quot;Mathematics is the key to unlocking the full potential of Deep Learning. Understanding its foundations is essential to innovating and pushing the boundaries of what AI can achieve.&amp;quot; — Geoffrey Hinton&#xA;📘&#xA;Chapter 2 of DLVR delves into the critical mathematical foundations that underpin deep learning, providing a comprehensive and rigorous exploration of the essential concepts. The chapter begins with a deep dive into linear algebra, covering vectors, matrices, and operations like addition, multiplication, and inversion, with a focus on how these operations support neural network functionality, particularly in forward and backward propagation.</description>
+    </item>
+    <item>
+      <title>Chapter 3</title>
+      <link>http://localhost:1313/docs/part-i/chapter-3/</link>
+      <pubDate>Thu, 29 Aug 2024 22:44:07 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-i/chapter-3/</guid>
+      <description>📘 Chapter 3: Neural Networks and Backpropagation link&#xD;💡&#xA;&amp;quot;Understanding the mechanics of learning in neural networks is key to advancing AI. The ability to implement these ideas in efficient and safe ways, as Rust allows, is the next step forward.&amp;quot; — Geoffrey Hinton&#xA;📘&#xA;Chapter 3 of DLVR provides an in-depth exploration of neural networks and the crucial mechanisms that enable their learning, with a focus on implementing these concepts using Rust.</description>
+    </item>
+    <item>
+      <title>Chapter 4</title>
+      <link>http://localhost:1313/docs/part-i/chapter-4/</link>
+      <pubDate>Thu, 29 Aug 2024 22:44:08 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-i/chapter-4/</guid>
+      <description>📘 Chapter 4: Deep Learning Crates in Rust Ecosystem link&#xD;💡&#xA;&amp;quot;The tools we use to build intelligent systems must be as robust and efficient as the models themselves. Rust offers a promising foundation for the next generation of AI frameworks.&amp;quot; — Andrew Ng&#xA;📘&#xA;Chapter 4 of &#34;Deep Learning via Rust&#34; (DLVR) delves into the deep learning crates within the Rust ecosystem, providing a comprehensive examination of how Rust&#39;s unique features support AI development.</description>
+    </item>
+    <item>
+      <title>Part II</title>
+      <link>http://localhost:1313/docs/part-ii-main/</link>
+      <pubDate>Thu, 29 Aug 2024 23:02:40 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-ii-main/</guid>
+      <description>💡&#xA;&amp;quot;The thing that excites me most about deep learning is that it can handle complex data and learn from it, revealing patterns and structures that were previously inaccessible.&amp;quot; — Geoffrey Hinton&#xA;Part II of DLVR delves into the diverse architectures that have driven the evolution of deep learning models. It begins with an introduction to Convolutional Neural Networks (CNNs), foundational for image processing tasks, and progresses to modern CNN architectures that have set benchmarks in computer vision.</description>
+    </item>
+    <item>
+      <title>Chapter 5</title>
+      <link>http://localhost:1313/docs/part-ii/chapter-5/</link>
+      <pubDate>Thu, 29 Aug 2024 22:44:08 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-ii/chapter-5/</guid>
+      <description>📘 Chapter 5: Introduction to Convolutional Neural Network (CNNs) link&#xD;💡&#xA;&amp;quot;CNNs have revolutionized the way we process visual data, and mastering their implementation in a language like Rust opens new doors for high-performance, scalable AI applications.&amp;quot; — Yann LeCun&#xA;📘&#xA;Chapter 5 of DLVR provides a thorough introduction to Convolutional Neural Networks (CNNs), covering both foundational principles and practical implementations. The chapter begins by tracing the historical development of CNNs, highlighting their evolution from traditional neural networks to sophisticated models that excel at image recognition tasks.</description>
+    </item>
+    <item>
+      <title>Chapter 6</title>
+      <link>http://localhost:1313/docs/part-ii/chapter-6/</link>
+      <pubDate>Thu, 29 Aug 2024 22:44:08 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-ii/chapter-6/</guid>
+      <description>📘 Chapter 6: Modern CNN Architectures link&#xD;💡&#xA;&amp;quot;Architectures like ResNet and DenseNet have fundamentally changed how we think about deep learning. Implementing these models in Rust opens new possibilities for performance and scalability in AI.&amp;quot; — Geoffrey Hinton&#xA;📘&#xA;Chapter 6 of &#34;Deep Learning via Rust&#34; (DLVR) delves into the intricacies of modern Convolutional Neural Networks (CNNs), offering a comprehensive exploration of their evolution and the architectural innovations that define contemporary deep learning models.</description>
+    </item>
+    <item>
+      <title>Chapter 7</title>
+      <link>http://localhost:1313/docs/part-ii/chapter-7/</link>
+      <pubDate>Thu, 29 Aug 2024 22:44:08 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-ii/chapter-7/</guid>
+      <description>📘 Chapter 7: Introduction to Recurrent Neural Network (RNNs) link&#xD;💡&#xA;&amp;quot;Recurrent neural networks have the power to understand sequences, and by mastering their implementation, we can unlock deeper insights in temporal data.&amp;quot; — Yoshua Bengio&#xA;📘&#xA;Chapter 7 of DLVR provides an in-depth exploration of Recurrent Neural Networks (RNNs), laying a strong foundation for understanding and implementing sequence models in Rust. The chapter begins by tracing the historical development of RNNs, highlighting their unique ability to capture temporal dependencies through hidden states, and contrasts them with feedforward networks.</description>
+    </item>
+    <item>
+      <title>Chapter 8</title>
+      <link>http://localhost:1313/docs/part-ii/chapter-8/</link>
+      <pubDate>Thu, 29 Aug 2024 22:44:08 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-ii/chapter-8/</guid>
+      <description>📘 Chapter 8: Modern RNN Architectures link&#xD;💡&#xA;&amp;quot;Attention is all you need—and with the right tools, you can build models that truly understand context and sequence.&amp;quot; — Vaswani et al.&#xA;📘&#xA;Chapter 8 of DLVR delves into the realm of Modern RNNs, exploring the evolution and advancements in recurrent neural network architectures that have revolutionized sequence modeling. The chapter begins with an overview of modern RNN architectures, tracing their development from simple RNNs to sophisticated models like LSTMs, GRUs, and Transformer-based RNNs, each designed to address challenges like vanishing gradients and long-term dependencies.</description>
+    </item>
+    <item>
+      <title>Chapter 9</title>
+      <link>http://localhost:1313/docs/part-ii/chapter-9/</link>
+      <pubDate>Thu, 29 Aug 2024 22:44:08 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-ii/chapter-9/</guid>
+      <description>📘 Chapter 9: Self-Attention Mechanisms on CNN and RNN link&#xD;💡&#xA;&amp;quot;Attention mechanisms are a fundamental breakthrough in how we design and train models, allowing us to better capture the nuances of data.&amp;quot; — Yann LeCun&#xA;📘&#xA;Chapter 9 of DLVR provides a comprehensive exploration of self-attention mechanisms and their integration into both Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs). It begins with an introduction to the concept of self-attention, highlighting its evolution from traditional attention mechanisms in RNNs to its role in modern deep learning models, and contrasting it with conventional convolutional and recurrent operations.</description>
+    </item>
+    <item>
+      <title>Chapter 10</title>
+      <link>http://localhost:1313/docs/part-ii/chapter-10/</link>
+      <pubDate>Thu, 29 Aug 2024 22:44:07 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-ii/chapter-10/</guid>
+      <description>📘 Chapter 10: Transformer Architecture link&#xD;💡&#xA;&amp;quot;The Transformer model has redefined what is possible in natural language processing, pushing the boundaries of what machines can understand and generate.&amp;quot; — Geoffrey Hinton&#xA;📘&#xA;Chapter 10 of DLVR provides a comprehensive exploration of the Transformer architecture, a revolutionary model in deep learning introduced by the seminal paper &#34;Attention is All You Need.&#34; The chapter begins with a thorough introduction to the origins and key components of the Transformer model, emphasizing its departure from traditional RNN/CNN approaches by leveraging self-attention mechanisms for parallel processing and global dependency capture.</description>
+    </item>
+    <item>
+      <title>Chapter 11</title>
+      <link>http://localhost:1313/docs/part-ii/chapter-11/</link>
+      <pubDate>Thu, 29 Aug 2024 22:44:07 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-ii/chapter-11/</guid>
+      <description>📘 Chapter 11: Generative Adversarial Networks (GANs) link&#xD;💡&#xA;&amp;quot;Generative adversarial networks are a powerful tool for teaching machines to imagine. They hold the key to creating data where there was none before.&amp;quot; — Ian Goodfellow&#xA;📘&#xA;Chapter 11 of DLVR offers an in-depth exploration of Generative Adversarial Networks (GANs), a groundbreaking framework introduced by Ian Goodfellow in 2014 for training generative models. The chapter begins by unpacking the fundamental architecture of GANs, consisting of the Generator and Discriminator, and the adversarial process that drives their training.</description>
+    </item>
+    <item>
+      <title>Chapter 12</title>
+      <link>http://localhost:1313/docs/part-ii/chapter-12/</link>
+      <pubDate>Thu, 29 Aug 2024 22:44:07 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-ii/chapter-12/</guid>
+      <description>📘 Chapter 12: Probabilistic Diffusion Models link&#xD;💡&#xA;&amp;quot;Diffusion models offer a promising direction for generative modeling, providing a framework that is both theoretically sound and practically powerful.&amp;quot; — Yoshua Bengio&#xA;📘&#xA;Chapter 12 of DLVR delves into the sophisticated realm of Probabilistic Diffusion Models, a class of generative models that learn to reverse a diffusion process, effectively transforming noise into structured data. The chapter begins by introducing the foundational concepts of diffusion models, highlighting their unique ability to model complex data distributions through the forward diffusion of noise and the reverse denoising process.</description>
+    </item>
+    <item>
+      <title>Chapter 13</title>
+      <link>http://localhost:1313/docs/part-ii/chapter-13/</link>
+      <pubDate>Thu, 29 Aug 2024 22:44:07 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-ii/chapter-13/</guid>
+      <description>📘 Chapter 13: Energy-Based Models (EBMs) link&#xD;💡&#xA;&amp;quot;Energy-Based Models offer a powerful framework for capturing the underlying structure of data, enabling models to learn in a more flexible and interpretable way.&amp;quot; — Yann LeCun&#xA;📘&#xA;Chapter 13 of DLVR provides a comprehensive examination of Energy-Based Models (EBMs), a powerful class of probabilistic models where an energy function captures the compatibility between input data and target variables. The chapter begins by introducing the fundamental components of EBMs, including the energy function and the concept of negative sampling, and contrasts EBMs with other generative models like GANs and VAEs, highlighting their unique approach to modeling energy landscapes directly.</description>
+    </item>
+    <item>
+      <title>Part III</title>
+      <link>http://localhost:1313/docs/part-iii-main/</link>
+      <pubDate>Thu, 29 Aug 2024 23:02:40 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-iii-main/</guid>
+      <description>💡&#xA;&amp;quot;As we develop more sophisticated models, the challenge is not only to improve their accuracy but to understand how and why they work, to push the boundaries of AI further.&amp;quot; — Yoshua Bengio&#xA;Part III of DLVR explores advanced techniques that push the boundaries of what deep learning models can achieve. This section begins with hyperparameter optimization and model tuning, crucial for enhancing model performance and efficiency. It then delves into self-supervised and unsupervised learning, two powerful approaches that allow models to learn from data without requiring extensive labeled datasets.</description>
+    </item>
+    <item>
+      <title>Chapter 14</title>
+      <link>http://localhost:1313/docs/part-iii/chapter-14/</link>
+      <pubDate>Thu, 29 Aug 2024 22:44:07 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-iii/chapter-14/</guid>
+      <description>📘 Chapter 14: Hyperparameter Optimization and Model Tuning link&#xD;💡&#xA;&amp;quot;Optimizing hyperparameters is the key to unlocking the full potential of machine learning models, transforming them from good to great.&amp;quot; — Andrew Ng&#xA;📘&#xA;Chapter 14 of DLVR delves into the critical process of Hyperparameter Optimization and Model Tuning, essential for maximizing the performance and generalization of deep learning models. The chapter begins by introducing the concept of hyperparameters, which govern the training process but are not directly learned from data, highlighting the importance of correctly tuning these parameters to achieve optimal model behavior.</description>
+    </item>
+    <item>
+      <title>Chapter 15</title>
+      <link>http://localhost:1313/docs/part-iii/chapter-15/</link>
+      <pubDate>Thu, 29 Aug 2024 22:44:07 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-iii/chapter-15/</guid>
+      <description>📘 Chapter 15: Self-Supervised and Unsupervised Learning link&#xD;💡&#xA;&amp;quot;Self-supervised learning is the dark matter of intelligence, filling in the gaps left by supervised learning, and driving AI closer to human-level understanding.&amp;quot; — Yann LeCun&#xA;📘&#xA;Chapter 15 of DLVR explores the transformative paradigms of Self-Supervised and Unsupervised Learning, where models learn from data without the need for labeled examples. The chapter begins by defining these learning approaches, contrasting them with supervised learning, and highlighting their advantages in applications like dimensionality reduction, clustering, and representation learning.</description>
+    </item>
+    <item>
+      <title>Chapter 16</title>
+      <link>http://localhost:1313/docs/part-iii/chapter-16/</link>
+      <pubDate>Thu, 29 Aug 2024 22:44:07 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-iii/chapter-16/</guid>
+      <description>📘 Chapter 16: Deep Reinforcement Learning link&#xD;💡&#xA;&amp;quot;Reinforcement learning is the closest thing we have to a machine learning-based path to artificial general intelligence.&amp;quot; — Richard Sutton&#xA;📘&#xA;Chapter 16 of DLVR provides a comprehensive exploration of Deep Reinforcement Learning (DRL), a powerful paradigm that combines reinforcement learning with deep learning to solve complex decision-making problems. The chapter begins by introducing the core concepts of reinforcement learning, including agents, environments, actions, rewards, and policies, within the framework of Markov Decision Processes (MDPs).</description>
+    </item>
+    <item>
+      <title>Chapter 17</title>
+      <link>http://localhost:1313/docs/part-iii/chapter-17/</link>
+      <pubDate>Thu, 29 Aug 2024 22:44:07 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-iii/chapter-17/</guid>
+      <description>📘 Chapter 17: Model Explainability and Interpretability link&#xD;💡&#xA;&amp;quot;Interpretability is not just a desirable feature, but a necessity for models deployed in real-world, high-stakes environments.&amp;quot; — Cynthia Rudin&#xA;📘&#xA;Chapter 17 of DLVR delves into the critical aspects of Model Explainability and Interpretability, essential for building trust, transparency, and accountability in machine learning systems. The chapter begins by distinguishing between explainability—providing understandable insights into model predictions—and interpretability—understanding the internal mechanisms of the model.</description>
+    </item>
+    <item>
+      <title>Chapter 18</title>
+      <link>http://localhost:1313/docs/part-iii/chapter-18/</link>
+      <pubDate>Thu, 29 Aug 2024 22:44:07 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-iii/chapter-18/</guid>
+      <description>📘 Chapter 18: Kolmogorov-Arnolds Networks (KANs) link&#xD;💡&#xA;&amp;quot;Every sufficiently complex function can be decomposed into simpler, more interpretable components—this is the power of networks like KANs in making sense of high-dimensional data.&amp;quot; — Yann LeCun&#xA;📘&#xA;Chapter 18 of DLVR introduces Kolmogorov-Arnolds Networks (KANs), a powerful approach to function approximation based on the Kolmogorov-Arnold representation theorem, which asserts that any multivariate continuous function can be expressed as a superposition of univariate functions.</description>
+    </item>
+    <item>
+      <title>Part IV</title>
+      <link>http://localhost:1313/docs/part-iv-main/</link>
+      <pubDate>Thu, 29 Aug 2024 23:02:40 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-iv-main/</guid>
+      <description>💡&#xA;&amp;quot;AI is the new electricity. Just as electricity transformed almost everything 100 years ago, today I actually have a hard time thinking of an industry that I don&amp;rsquo;t think AI will transform in the next several years.&amp;quot; — Andrew Ng&#xA;Part IV of &#34;Deep Learning via Rust&#34; transitions from theory and architecture to practical implementation and application, focusing on how to build, train, deploy, and scale deep learning models using Rust.</description>
+    </item>
+    <item>
+      <title>Chapter 19</title>
+      <link>http://localhost:1313/docs/part-iv/chapter-19/</link>
+      <pubDate>Thu, 29 Aug 2024 22:44:07 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-iv/chapter-19/</guid>
+      <description>📘 Chapter 19: Building and Training Models in Rust link&#xD;💡&#xA;&amp;quot;Understanding deep learning means more than just knowing how to build models; it’s about mastering the tools and techniques that bring these models to life.&amp;quot; — Geoffrey Hinton&#xA;📘&#xA;Chapter 19 of DLVR provides a comprehensive guide to building and training deep learning models using Rust, a systems programming language known for its memory safety, concurrency, and performance. The chapter begins with an introduction to deep learning concepts and how Rust’s unique features, such as its ownership model and zero-cost abstractions, contribute to safer and more efficient model implementations compared to traditional frameworks like TensorFlow and PyTorch.</description>
+    </item>
+    <item>
+      <title>Chapter 20</title>
+      <link>http://localhost:1313/docs/part-iv/chapter-20/</link>
+      <pubDate>Thu, 29 Aug 2024 22:44:07 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-iv/chapter-20/</guid>
+      <description>📘 Chapter 20: Deployment and Scaling of Models link&#xD;💡&#xA;&amp;quot;Scalability is about building systems that not only work well today but can continue to perform as demands increase. In the world of AI, that means deploying models that are ready to grow.&amp;quot; — Andrew Ng&#xA;📘&#xA;Chapter 20 of DLVR provides an in-depth exploration of deploying and scaling deep learning models in Rust, focusing on the transition from development to production.</description>
+    </item>
+    <item>
+      <title>Chapter 21</title>
+      <link>http://localhost:1313/docs/part-iv/chapter-21/</link>
+      <pubDate>Thu, 29 Aug 2024 22:44:07 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-iv/chapter-21/</guid>
+      <description>📘 Chapter 21: Applications in Computer Vision link&#xD;💡&#xA;&amp;quot;Computer vision has always been a domain of pushing boundaries—not just in what machines can see, but in how they understand and interact with the world.&amp;quot; — Fei-Fei Li&#xA;📘&#xA;Chapter 21 of DLVR delves into the applications of computer vision using Rust, a language known for its performance, memory safety, and concurrency. The chapter begins by introducing the fundamentals of computer vision, emphasizing its significance across industries such as healthcare, automotive, and security.</description>
+    </item>
+    <item>
+      <title>Chapter 22</title>
+      <link>http://localhost:1313/docs/part-iv/chapter-22/</link>
+      <pubDate>Thu, 29 Aug 2024 22:44:07 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-iv/chapter-22/</guid>
+      <description>📘 Chapter 22: Applications in Natural Language Processing link&#xD;💡&#xA;&amp;quot;Language is the most powerful, most readily available tool of communication in our toolbox—and teaching machines to understand and generate it opens up an incredible frontier.&amp;quot; — Yoshua Bengio&#xA;📘&#xA;Chapter 22 of DLVR explores the powerful applications of Natural Language Processing (NLP) using Rust, a language known for its performance, memory safety, and concurrency. The chapter begins with an introduction to NLP, highlighting its significance in applications like sentiment analysis, machine translation, and information retrieval, while emphasizing Rust’s advantages in these tasks.</description>
+    </item>
+    <item>
+      <title>Chapter 23</title>
+      <link>http://localhost:1313/docs/part-iv/chapter-23/</link>
+      <pubDate>Thu, 29 Aug 2024 22:44:07 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-iv/chapter-23/</guid>
+      <description>📘 Chapter 23: Time Series Analysis and Forecasting link&#xD;💡&#xA;&amp;quot;Forecasting is not just about predicting the future; it&amp;rsquo;s about understanding the past and the present to shape what&amp;rsquo;s coming next.&amp;quot; — Andrew Ng&#xA;📘&#xA;Chapter 23 offers a comprehensive guide to time series analysis and forecasting using Rust crates. The chapter covers fundamental concepts, from classical methods like ARIMA to advanced deep learning approaches, enabling readers to tackle a wide range of time series forecasting tasks.</description>
+    </item>
+    <item>
+      <title>Chapter 24</title>
+      <link>http://localhost:1313/docs/part-iv/chapter-24/</link>
+      <pubDate>Thu, 29 Aug 2024 22:44:07 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-iv/chapter-24/</guid>
+      <description>📘 Chapter 24: Anomaly Detection Techniques link&#xD;💡&#xA;&amp;quot;Anomalies are not just rare events; they are opportunities to discover the unexpected and to understand the system at a deeper level.&amp;quot; — Judea Pearl&#xA;📘&#xA;Chapter 24 of DLVR provides a comprehensive exploration of Anomaly Detection Techniques using Rust, a language renowned for its performance, memory safety, and concurrency. The chapter begins with an introduction to anomaly detection, emphasizing its critical role in domains such as fraud detection, network security, and industrial fault detection.</description>
+    </item>
+    <item>
+      <title>Chapter 25</title>
+      <link>http://localhost:1313/docs/part-iv/chapter-25/</link>
+      <pubDate>Thu, 29 Aug 2024 22:44:07 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-iv/chapter-25/</guid>
+      <description>📘 Chapter 25: Scalable Deep Learning and Distributed Training link&#xD;💡&#xA;&amp;quot;Scalability isn’t just about handling more data or training bigger models; it’s about building systems that grow with the problem and continue to perform as the world changes.&amp;quot; — Jeff Dean&#xA;📘&#xA;Chapter 25 of DLVR provides an in-depth exploration of Scalable Deep Learning and Distributed Training, focusing on the efficient training of deep learning models across multiple processors or machines using Rust.</description>
+    </item>
+    <item>
+      <title>Part V</title>
+      <link>http://localhost:1313/docs/part-v-main/</link>
+      <pubDate>Thu, 29 Aug 2024 23:02:40 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-v-main/</guid>
+      <description>💡&#xA;&amp;quot;We need to move towards AI systems that are not only powerful but also trustworthy and fair, reflecting the values and ethics of the societies they serve.&amp;quot; — Geoffrey Hinton&#xA;Part V of &#34;Deep Learning via Rust&#34; explores the forefront of deep learning research and applications, highlighting the latest trends and emerging technologies. This section begins with federated learning and privacy-preserving techniques, addressing the critical need for data security and decentralized model training.</description>
+    </item>
+    <item>
+      <title>Chapter 26</title>
+      <link>http://localhost:1313/docs/part-v/chapter-26/</link>
+      <pubDate>Thu, 29 Aug 2024 22:44:07 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-v/chapter-26/</guid>
+      <description>📘 Chapter 26: Federated Learning and Privacy-Preserving Techniques link&#xD;💡&#xA;&amp;quot;Privacy is not a feature to add on; it is a fundamental aspect that must be deeply integrated into our systems from the ground up.&amp;quot; — Cynthia Dwork&#xA;📘&#xA;Chapter 26 of DLVR explores Federated Learning and Privacy-Preserving Techniques, focusing on how Rust can be leveraged to implement decentralized machine learning systems where models are trained across multiple devices without centralized data storage.</description>
+    </item>
+    <item>
+      <title>Chapter 27</title>
+      <link>http://localhost:1313/docs/part-v/chapter-27/</link>
+      <pubDate>Thu, 29 Aug 2024 22:44:07 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-v/chapter-27/</guid>
+      <description>📘 Chapter 27: Quantum Machine Learning link&#xD;💡&#xA;&amp;quot;Quantum computing has the potential to revolutionize machine learning, unlocking new capabilities that are beyond the reach of classical computers.&amp;quot; — John Preskill&#xA;📘&#xA;Chapter 27 of DLVR delves into the emerging field of Quantum Machine Learning (QML), exploring the integration of quantum computing principles with machine learning to harness quantum speedup for complex AI tasks. The chapter begins with an introduction to quantum computing, covering fundamental concepts such as superposition, entanglement, and quantum gates, and their implications for solving intractable problems that classical computers struggle with.</description>
+    </item>
+    <item>
+      <title>Chapter 28</title>
+      <link>http://localhost:1313/docs/part-v/chapter-28/</link>
+      <pubDate>Thu, 29 Aug 2024 22:44:07 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-v/chapter-28/</guid>
+      <description>📘 Chapter 28: Ethics and Fairness in AI link&#xD;💡&#xA;&amp;quot;AI is not just a technology; it is a mirror that reflects the values of those who build it. Our responsibility is to ensure that what it reflects is fair, just, and ethical.&amp;quot; — Fei-Fei Li&#xA;📘&#xA;Chapter 28 of DLVR addresses the critical issues of Ethics and Fairness in AI, focusing on how Rust can be utilized to create AI systems that are transparent, fair, secure, and accountable.</description>
+    </item>
+    <item>
+      <title>Chapter 29</title>
+      <link>http://localhost:1313/docs/part-v/chapter-29/</link>
+      <pubDate>Thu, 29 Aug 2024 22:44:07 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-v/chapter-29/</guid>
+      <description>📘 Chapter 29: Building Large Language Model in Rust link&#xD;💡&#xA;&amp;quot;Language is the fabric of our thoughts, and large language models are the loom upon which we can weave the future of human-computer interaction.&amp;quot; — Yoshua Bengio&#xA;📘&#xA;Chapter 29 of DLVR delves into the intricacies of building and deploying Large Language Models (LLMs) using Rust, focusing on their pivotal role in natural language processing tasks such as translation, summarization, and text generation.</description>
+    </item>
+    <item>
+      <title>Chapter 30</title>
+      <link>http://localhost:1313/docs/part-v/chapter-30/</link>
+      <pubDate>Thu, 29 Aug 2024 22:44:07 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-v/chapter-30/</guid>
+      <description>📘 Chapter 30: Emerging Trends and Research Frontiers link&#xD;💡&#xA;&amp;quot;The future of AI lies at the intersection of diverse disciplines, where the fusion of new ideas and technologies will drive the next wave of innovation.&amp;quot; — Andrew Ng&#xA;📘&#xA;Chapter 30 of DLVR explores the cutting-edge trends and research frontiers in the intersection of AI and Rust, with a focus on quantum machine learning, edge computing, federated learning, self-supervised learning, and ethics in AI.</description>
+    </item>
+    <item>
+      <title>Closing Remark</title>
+      <link>http://localhost:1313/docs/closing-remark/</link>
+      <pubDate>Thu, 29 Aug 2024 22:44:08 +0700</pubDate>
+      <guid>http://localhost:1313/docs/closing-remark/</guid>
+      <description>💡&#xA;&amp;quot;An expert is a man who has made all the mistakes which can be made, in a narrow field.&amp;quot; — Niels Bohr&#xA;In the fast-paced and ever-evolving landscape of Artificial Intelligence and Machine Learning (AI/ML), the ability to master deep learning techniques is a defining characteristic of those who drive innovation and lead in research and development. While proficiency in widely used languages like Python forms a necessary foundation, it is the capability to delve into low-level implementations, optimize performance, and leverage cutting-edge tools like Rust that truly distinguishes leading engineers and researchers.</description>
+    </item>
+  </channel>
+</rss>

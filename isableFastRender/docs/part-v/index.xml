@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Part V on Modern Data Structures and Algorithms in Rust</title>
+    <link>http://localhost:1313/docs/part-v/</link>
+    <description>Recent content in Part V on Modern Data Structures and Algorithms in Rust</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 29 Aug 2024 22:27:35 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/docs/part-v/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chapter 26</title>
+      <link>http://localhost:1313/docs/part-v/chapter-26/</link>
+      <pubDate>Thu, 29 Aug 2024 22:27:34 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-v/chapter-26/</guid>
+      <description>📘 Chapter 26: Federated Learning and Privacy-Preserving Techniques link&#xD;💡&#xA;&amp;quot;Privacy is not a feature to add on; it is a fundamental aspect that must be deeply integrated into our systems from the ground up.&amp;quot; — Cynthia Dwork&#xA;📘&#xA;Chapter 26 of DLVR explores Federated Learning and Privacy-Preserving Techniques, focusing on how Rust can be leveraged to implement decentralized machine learning systems where models are trained across multiple devices without centralized data storage.</description>
+    </item>
+    <item>
+      <title>Chapter 27</title>
+      <link>http://localhost:1313/docs/part-v/chapter-27/</link>
+      <pubDate>Thu, 29 Aug 2024 22:27:35 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-v/chapter-27/</guid>
+      <description>📘 Chapter 27: Quantum Machine Learning link&#xD;💡&#xA;&amp;quot;Quantum computing has the potential to revolutionize machine learning, unlocking new capabilities that are beyond the reach of classical computers.&amp;quot; — John Preskill&#xA;📘&#xA;Chapter 27 of DLVR delves into the emerging field of Quantum Machine Learning (QML), exploring the integration of quantum computing principles with machine learning to harness quantum speedup for complex AI tasks. The chapter begins with an introduction to quantum computing, covering fundamental concepts such as superposition, entanglement, and quantum gates, and their implications for solving intractable problems that classical computers struggle with.</description>
+    </item>
+    <item>
+      <title>Chapter 28</title>
+      <link>http://localhost:1313/docs/part-v/chapter-28/</link>
+      <pubDate>Thu, 29 Aug 2024 22:27:35 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-v/chapter-28/</guid>
+      <description>📘 Chapter 28: Ethics and Fairness in AI link&#xD;💡&#xA;&amp;quot;AI is not just a technology; it is a mirror that reflects the values of those who build it. Our responsibility is to ensure that what it reflects is fair, just, and ethical.&amp;quot; — Fei-Fei Li&#xA;📘&#xA;Chapter 28 of DLVR addresses the critical issues of Ethics and Fairness in AI, focusing on how Rust can be utilized to create AI systems that are transparent, fair, secure, and accountable.</description>
+    </item>
+    <item>
+      <title>Chapter 29</title>
+      <link>http://localhost:1313/docs/part-v/chapter-29/</link>
+      <pubDate>Thu, 29 Aug 2024 22:27:35 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-v/chapter-29/</guid>
+      <description>📘 Chapter 29: Building Large Language Model in Rust link&#xD;💡&#xA;&amp;quot;Language is the fabric of our thoughts, and large language models are the loom upon which we can weave the future of human-computer interaction.&amp;quot; — Yoshua Bengio&#xA;📘&#xA;Chapter 29 of DLVR delves into the intricacies of building and deploying Large Language Models (LLMs) using Rust, focusing on their pivotal role in natural language processing tasks such as translation, summarization, and text generation.</description>
+    </item>
+    <item>
+      <title>Chapter 30</title>
+      <link>http://localhost:1313/docs/part-v/chapter-30/</link>
+      <pubDate>Thu, 29 Aug 2024 22:27:35 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-v/chapter-30/</guid>
+      <description>📘 Chapter 30: Emerging Trends and Research Frontiers link&#xD;💡&#xA;&amp;quot;The future of AI lies at the intersection of diverse disciplines, where the fusion of new ideas and technologies will drive the next wave of innovation.&amp;quot; — Andrew Ng&#xA;📘&#xA;Chapter 30 of DLVR explores the cutting-edge trends and research frontiers in the intersection of AI and Rust, with a focus on quantum machine learning, edge computing, federated learning, self-supervised learning, and ethics in AI.</description>
+    </item>
+  </channel>
+</rss>

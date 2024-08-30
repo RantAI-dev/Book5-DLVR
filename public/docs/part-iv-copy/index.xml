@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Part IV on Modern Data Structures and Algorithms in Rust</title>
+    <link>http://localhost:1313/docs/part-iv-copy/</link>
+    <description>Recent content in Part IV on Modern Data Structures and Algorithms in Rust</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 29 Aug 2024 22:44:07 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/docs/part-iv-copy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chapter 19</title>
+      <link>http://localhost:1313/docs/part-iv-copy/chapter-19/</link>
+      <pubDate>Thu, 29 Aug 2024 22:44:07 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-iv-copy/chapter-19/</guid>
+      <description>📘 Chapter 19: Building and Training Models in Rust link&#xD;💡&#xA;&amp;quot;Understanding deep learning means more than just knowing how to build models; it’s about mastering the tools and techniques that bring these models to life.&amp;quot; — Geoffrey Hinton&#xA;📘&#xA;Chapter 19 of DLVR provides a comprehensive guide to building and training deep learning models using Rust, a systems programming language known for its memory safety, concurrency, and performance. The chapter begins with an introduction to deep learning concepts and how Rust’s unique features, such as its ownership model and zero-cost abstractions, contribute to safer and more efficient model implementations compared to traditional frameworks like TensorFlow and PyTorch.</description>
+    </item>
+    <item>
+      <title>Chapter 20</title>
+      <link>http://localhost:1313/docs/part-iv-copy/chapter-20/</link>
+      <pubDate>Thu, 29 Aug 2024 22:44:07 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-iv-copy/chapter-20/</guid>
+      <description>📘 Chapter 20: Deployment and Scaling of Models link&#xD;💡&#xA;&amp;quot;Scalability is about building systems that not only work well today but can continue to perform as demands increase. In the world of AI, that means deploying models that are ready to grow.&amp;quot; — Andrew Ng&#xA;📘&#xA;Chapter 20 of DLVR provides an in-depth exploration of deploying and scaling deep learning models in Rust, focusing on the transition from development to production.</description>
+    </item>
+    <item>
+      <title>Chapter 21</title>
+      <link>http://localhost:1313/docs/part-iv-copy/chapter-21/</link>
+      <pubDate>Thu, 29 Aug 2024 22:44:07 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-iv-copy/chapter-21/</guid>
+      <description>📘 Chapter 21: Applications in Computer Vision link&#xD;💡&#xA;&amp;quot;Computer vision has always been a domain of pushing boundaries—not just in what machines can see, but in how they understand and interact with the world.&amp;quot; — Fei-Fei Li&#xA;📘&#xA;Chapter 21 of DLVR delves into the applications of computer vision using Rust, a language known for its performance, memory safety, and concurrency. The chapter begins by introducing the fundamentals of computer vision, emphasizing its significance across industries such as healthcare, automotive, and security.</description>
+    </item>
+    <item>
+      <title>Chapter 22</title>
+      <link>http://localhost:1313/docs/part-iv-copy/chapter-22/</link>
+      <pubDate>Thu, 29 Aug 2024 22:44:07 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-iv-copy/chapter-22/</guid>
+      <description>📘 Chapter 22: Applications in Natural Language Processing link&#xD;💡&#xA;&amp;quot;Language is the most powerful, most readily available tool of communication in our toolbox—and teaching machines to understand and generate it opens up an incredible frontier.&amp;quot; — Yoshua Bengio&#xA;📘&#xA;Chapter 22 of DLVR explores the powerful applications of Natural Language Processing (NLP) using Rust, a language known for its performance, memory safety, and concurrency. The chapter begins with an introduction to NLP, highlighting its significance in applications like sentiment analysis, machine translation, and information retrieval, while emphasizing Rust’s advantages in these tasks.</description>
+    </item>
+    <item>
+      <title>Chapter 23</title>
+      <link>http://localhost:1313/docs/part-iv-copy/chapter-23/</link>
+      <pubDate>Thu, 29 Aug 2024 22:44:07 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-iv-copy/chapter-23/</guid>
+      <description>📘 Chapter 23: Time Series Analysis and Forecasting link&#xD;💡&#xA;&amp;quot;Forecasting is not just about predicting the future; it&amp;rsquo;s about understanding the past and the present to shape what&amp;rsquo;s coming next.&amp;quot; — Andrew Ng&#xA;📘&#xA;Chapter 23 offers a comprehensive guide to time series analysis and forecasting using Rust crates. The chapter covers fundamental concepts, from classical methods like ARIMA to advanced deep learning approaches, enabling readers to tackle a wide range of time series forecasting tasks.</description>
+    </item>
+    <item>
+      <title>Chapter 24</title>
+      <link>http://localhost:1313/docs/part-iv-copy/chapter-24/</link>
+      <pubDate>Thu, 29 Aug 2024 22:44:07 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-iv-copy/chapter-24/</guid>
+      <description>📘 Chapter 24: Anomaly Detection Techniques link&#xD;💡&#xA;&amp;quot;Anomalies are not just rare events; they are opportunities to discover the unexpected and to understand the system at a deeper level.&amp;quot; — Judea Pearl&#xA;📘&#xA;Chapter 24 of DLVR provides a comprehensive exploration of Anomaly Detection Techniques using Rust, a language renowned for its performance, memory safety, and concurrency. The chapter begins with an introduction to anomaly detection, emphasizing its critical role in domains such as fraud detection, network security, and industrial fault detection.</description>
+    </item>
+    <item>
+      <title>Chapter 25</title>
+      <link>http://localhost:1313/docs/part-iv-copy/chapter-25/</link>
+      <pubDate>Thu, 29 Aug 2024 22:44:07 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-iv-copy/chapter-25/</guid>
+      <description>📘 Chapter 25: Scalable Deep Learning and Distributed Training link&#xD;💡&#xA;&amp;quot;Scalability isn’t just about handling more data or training bigger models; it’s about building systems that grow with the problem and continue to perform as the world changes.&amp;quot; — Jeff Dean&#xA;📘&#xA;Chapter 25 of DLVR provides an in-depth exploration of Scalable Deep Learning and Distributed Training, focusing on the efficient training of deep learning models across multiple processors or machines using Rust.</description>
+    </item>
+  </channel>
+</rss>

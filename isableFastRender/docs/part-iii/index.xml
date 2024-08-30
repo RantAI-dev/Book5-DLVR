@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Part III on Modern Data Structures and Algorithms in Rust</title>
+    <link>http://localhost:1313/docs/part-iii/</link>
+    <description>Recent content in Part III on Modern Data Structures and Algorithms in Rust</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 29 Aug 2024 22:27:34 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/docs/part-iii/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chapter 14</title>
+      <link>http://localhost:1313/docs/part-iii/chapter-14/</link>
+      <pubDate>Thu, 29 Aug 2024 22:27:34 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-iii/chapter-14/</guid>
+      <description>📘 Chapter 14: Hyperparameter Optimization and Model Tuning link&#xD;💡&#xA;&amp;quot;Optimizing hyperparameters is the key to unlocking the full potential of machine learning models, transforming them from good to great.&amp;quot; — Andrew Ng&#xA;📘&#xA;Chapter 14 of DLVR delves into the critical process of Hyperparameter Optimization and Model Tuning, essential for maximizing the performance and generalization of deep learning models. The chapter begins by introducing the concept of hyperparameters, which govern the training process but are not directly learned from data, highlighting the importance of correctly tuning these parameters to achieve optimal model behavior.</description>
+    </item>
+    <item>
+      <title>Chapter 15</title>
+      <link>http://localhost:1313/docs/part-iii/chapter-15/</link>
+      <pubDate>Thu, 29 Aug 2024 22:27:34 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-iii/chapter-15/</guid>
+      <description>📘 Chapter 15: Self-Supervised and Unsupervised Learning link&#xD;💡&#xA;&amp;quot;Self-supervised learning is the dark matter of intelligence, filling in the gaps left by supervised learning, and driving AI closer to human-level understanding.&amp;quot; — Yann LeCun&#xA;📘&#xA;Chapter 15 of DLVR explores the transformative paradigms of Self-Supervised and Unsupervised Learning, where models learn from data without the need for labeled examples. The chapter begins by defining these learning approaches, contrasting them with supervised learning, and highlighting their advantages in applications like dimensionality reduction, clustering, and representation learning.</description>
+    </item>
+    <item>
+      <title>Chapter 16</title>
+      <link>http://localhost:1313/docs/part-iii/chapter-16/</link>
+      <pubDate>Thu, 29 Aug 2024 22:27:34 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-iii/chapter-16/</guid>
+      <description>📘 Chapter 16: Deep Reinforcement Learning link&#xD;💡&#xA;&amp;quot;Reinforcement learning is the closest thing we have to a machine learning-based path to artificial general intelligence.&amp;quot; — Richard Sutton&#xA;📘&#xA;Chapter 16 of DLVR provides a comprehensive exploration of Deep Reinforcement Learning (DRL), a powerful paradigm that combines reinforcement learning with deep learning to solve complex decision-making problems. The chapter begins by introducing the core concepts of reinforcement learning, including agents, environments, actions, rewards, and policies, within the framework of Markov Decision Processes (MDPs).</description>
+    </item>
+    <item>
+      <title>Chapter 17</title>
+      <link>http://localhost:1313/docs/part-iii/chapter-17/</link>
+      <pubDate>Thu, 29 Aug 2024 22:27:34 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-iii/chapter-17/</guid>
+      <description>📘 Chapter 17: Model Explainability and Interpretability link&#xD;💡&#xA;&amp;quot;Interpretability is not just a desirable feature, but a necessity for models deployed in real-world, high-stakes environments.&amp;quot; — Cynthia Rudin&#xA;📘&#xA;Chapter 17 of DLVR delves into the critical aspects of Model Explainability and Interpretability, essential for building trust, transparency, and accountability in machine learning systems. The chapter begins by distinguishing between explainability—providing understandable insights into model predictions—and interpretability—understanding the internal mechanisms of the model.</description>
+    </item>
+    <item>
+      <title>Chapter 18</title>
+      <link>http://localhost:1313/docs/part-iii/chapter-18/</link>
+      <pubDate>Thu, 29 Aug 2024 22:27:34 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-iii/chapter-18/</guid>
+      <description>📘 Chapter 18: Kolmogorov-Arnolds Networks (KANs) link&#xD;💡&#xA;&amp;quot;Every sufficiently complex function can be decomposed into simpler, more interpretable components—this is the power of networks like KANs in making sense of high-dimensional data.&amp;quot; — Yann LeCun&#xA;📘&#xA;Chapter 18 of DLVR introduces Kolmogorov-Arnolds Networks (KANs), a powerful approach to function approximation based on the Kolmogorov-Arnold representation theorem, which asserts that any multivariate continuous function can be expressed as a superposition of univariate functions.</description>
+    </item>
+  </channel>
+</rss>

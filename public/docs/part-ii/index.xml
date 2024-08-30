@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Part II on Modern Data Structures and Algorithms in Rust</title>
+    <link>http://localhost:1313/docs/part-ii/</link>
+    <description>Recent content in Part II on Modern Data Structures and Algorithms in Rust</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 29 Aug 2024 22:44:08 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/docs/part-ii/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chapter 5</title>
+      <link>http://localhost:1313/docs/part-ii/chapter-5/</link>
+      <pubDate>Thu, 29 Aug 2024 22:44:08 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-ii/chapter-5/</guid>
+      <description>📘 Chapter 5: Introduction to Convolutional Neural Network (CNNs) link&#xD;💡&#xA;&amp;quot;CNNs have revolutionized the way we process visual data, and mastering their implementation in a language like Rust opens new doors for high-performance, scalable AI applications.&amp;quot; — Yann LeCun&#xA;📘&#xA;Chapter 5 of DLVR provides a thorough introduction to Convolutional Neural Networks (CNNs), covering both foundational principles and practical implementations. The chapter begins by tracing the historical development of CNNs, highlighting their evolution from traditional neural networks to sophisticated models that excel at image recognition tasks.</description>
+    </item>
+    <item>
+      <title>Chapter 6</title>
+      <link>http://localhost:1313/docs/part-ii/chapter-6/</link>
+      <pubDate>Thu, 29 Aug 2024 22:44:08 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-ii/chapter-6/</guid>
+      <description>📘 Chapter 6: Modern CNN Architectures link&#xD;💡&#xA;&amp;quot;Architectures like ResNet and DenseNet have fundamentally changed how we think about deep learning. Implementing these models in Rust opens new possibilities for performance and scalability in AI.&amp;quot; — Geoffrey Hinton&#xA;📘&#xA;Chapter 6 of &#34;Deep Learning via Rust&#34; (DLVR) delves into the intricacies of modern Convolutional Neural Networks (CNNs), offering a comprehensive exploration of their evolution and the architectural innovations that define contemporary deep learning models.</description>
+    </item>
+    <item>
+      <title>Chapter 7</title>
+      <link>http://localhost:1313/docs/part-ii/chapter-7/</link>
+      <pubDate>Thu, 29 Aug 2024 22:44:08 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-ii/chapter-7/</guid>
+      <description>📘 Chapter 7: Introduction to Recurrent Neural Network (RNNs) link&#xD;💡&#xA;&amp;quot;Recurrent neural networks have the power to understand sequences, and by mastering their implementation, we can unlock deeper insights in temporal data.&amp;quot; — Yoshua Bengio&#xA;📘&#xA;Chapter 7 of DLVR provides an in-depth exploration of Recurrent Neural Networks (RNNs), laying a strong foundation for understanding and implementing sequence models in Rust. The chapter begins by tracing the historical development of RNNs, highlighting their unique ability to capture temporal dependencies through hidden states, and contrasts them with feedforward networks.</description>
+    </item>
+    <item>
+      <title>Chapter 8</title>
+      <link>http://localhost:1313/docs/part-ii/chapter-8/</link>
+      <pubDate>Thu, 29 Aug 2024 22:44:08 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-ii/chapter-8/</guid>
+      <description>📘 Chapter 8: Modern RNN Architectures link&#xD;💡&#xA;&amp;quot;Attention is all you need—and with the right tools, you can build models that truly understand context and sequence.&amp;quot; — Vaswani et al.&#xA;📘&#xA;Chapter 8 of DLVR delves into the realm of Modern RNNs, exploring the evolution and advancements in recurrent neural network architectures that have revolutionized sequence modeling. The chapter begins with an overview of modern RNN architectures, tracing their development from simple RNNs to sophisticated models like LSTMs, GRUs, and Transformer-based RNNs, each designed to address challenges like vanishing gradients and long-term dependencies.</description>
+    </item>
+    <item>
+      <title>Chapter 9</title>
+      <link>http://localhost:1313/docs/part-ii/chapter-9/</link>
+      <pubDate>Thu, 29 Aug 2024 22:44:08 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-ii/chapter-9/</guid>
+      <description>📘 Chapter 9: Self-Attention Mechanisms on CNN and RNN link&#xD;💡&#xA;&amp;quot;Attention mechanisms are a fundamental breakthrough in how we design and train models, allowing us to better capture the nuances of data.&amp;quot; — Yann LeCun&#xA;📘&#xA;Chapter 9 of DLVR provides a comprehensive exploration of self-attention mechanisms and their integration into both Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs). It begins with an introduction to the concept of self-attention, highlighting its evolution from traditional attention mechanisms in RNNs to its role in modern deep learning models, and contrasting it with conventional convolutional and recurrent operations.</description>
+    </item>
+    <item>
+      <title>Chapter 10</title>
+      <link>http://localhost:1313/docs/part-ii/chapter-10/</link>
+      <pubDate>Thu, 29 Aug 2024 22:44:07 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-ii/chapter-10/</guid>
+      <description>📘 Chapter 10: Transformer Architecture link&#xD;💡&#xA;&amp;quot;The Transformer model has redefined what is possible in natural language processing, pushing the boundaries of what machines can understand and generate.&amp;quot; — Geoffrey Hinton&#xA;📘&#xA;Chapter 10 of DLVR provides a comprehensive exploration of the Transformer architecture, a revolutionary model in deep learning introduced by the seminal paper &#34;Attention is All You Need.&#34; The chapter begins with a thorough introduction to the origins and key components of the Transformer model, emphasizing its departure from traditional RNN/CNN approaches by leveraging self-attention mechanisms for parallel processing and global dependency capture.</description>
+    </item>
+    <item>
+      <title>Chapter 11</title>
+      <link>http://localhost:1313/docs/part-ii/chapter-11/</link>
+      <pubDate>Thu, 29 Aug 2024 22:44:07 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-ii/chapter-11/</guid>
+      <description>📘 Chapter 11: Generative Adversarial Networks (GANs) link&#xD;💡&#xA;&amp;quot;Generative adversarial networks are a powerful tool for teaching machines to imagine. They hold the key to creating data where there was none before.&amp;quot; — Ian Goodfellow&#xA;📘&#xA;Chapter 11 of DLVR offers an in-depth exploration of Generative Adversarial Networks (GANs), a groundbreaking framework introduced by Ian Goodfellow in 2014 for training generative models. The chapter begins by unpacking the fundamental architecture of GANs, consisting of the Generator and Discriminator, and the adversarial process that drives their training.</description>
+    </item>
+    <item>
+      <title>Chapter 12</title>
+      <link>http://localhost:1313/docs/part-ii/chapter-12/</link>
+      <pubDate>Thu, 29 Aug 2024 22:44:07 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-ii/chapter-12/</guid>
+      <description>📘 Chapter 12: Probabilistic Diffusion Models link&#xD;💡&#xA;&amp;quot;Diffusion models offer a promising direction for generative modeling, providing a framework that is both theoretically sound and practically powerful.&amp;quot; — Yoshua Bengio&#xA;📘&#xA;Chapter 12 of DLVR delves into the sophisticated realm of Probabilistic Diffusion Models, a class of generative models that learn to reverse a diffusion process, effectively transforming noise into structured data. The chapter begins by introducing the foundational concepts of diffusion models, highlighting their unique ability to model complex data distributions through the forward diffusion of noise and the reverse denoising process.</description>
+    </item>
+    <item>
+      <title>Chapter 13</title>
+      <link>http://localhost:1313/docs/part-ii/chapter-13/</link>
+      <pubDate>Thu, 29 Aug 2024 22:44:07 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-ii/chapter-13/</guid>
+      <description>📘 Chapter 13: Energy-Based Models (EBMs) link&#xD;💡&#xA;&amp;quot;Energy-Based Models offer a powerful framework for capturing the underlying structure of data, enabling models to learn in a more flexible and interpretable way.&amp;quot; — Yann LeCun&#xA;📘&#xA;Chapter 13 of DLVR provides a comprehensive examination of Energy-Based Models (EBMs), a powerful class of probabilistic models where an energy function captures the compatibility between input data and target variables. The chapter begins by introducing the fundamental components of EBMs, including the energy function and the concept of negative sampling, and contrasts EBMs with other generative models like GANs and VAEs, highlighting their unique approach to modeling energy landscapes directly.</description>
+    </item>
+  </channel>
+</rss>

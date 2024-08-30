@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on Modern Data Structures and Algorithms in Rust</title>
+    <link>http://localhost:1313/docs/</link>
+    <description>Recent content in Docs on Modern Data Structures and Algorithms in Rust</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 29 Aug 2024 22:27:35 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deep Learning via Rust</title>
+      <link>http://localhost:1313/docs/introduction/</link>
+      <pubDate>Thu, 29 Aug 2024 22:27:35 +0700</pubDate>
+      <guid>http://localhost:1313/docs/introduction/</guid>
+      <description>ðŸ’¡&#xA;&amp;quot;The objective of deep learning is to develop models that are not only theoretically sound but also efficient and scalable, capable of being deployed in the real world across various applications.&amp;quot; â€” Yoshua Bengio&#xA;About DLVR link&#xD;&#34;Deep Learning via Rust&#34; or DLVR offers a comprehensive exploration of deep learning concepts and techniques through the lens of the Rust programming language, known for its performance and safety. The book begins by establishing a strong foundation in deep learning principles, mathematical underpinnings, and introduces essential Rust libraries for machine learning.</description>
+    </item>
+    <item>
+      <title>Table of Content</title>
+      <link>http://localhost:1313/docs/table-of-content/</link>
+      <pubDate>Thu, 29 Aug 2024 22:27:35 +0700</pubDate>
+      <guid>http://localhost:1313/docs/table-of-content/</guid>
+      <description>💡&#xA;&amp;quot;The most interesting thing about deep learning is not that we can recognize objects, but that we can start to build systems that can understand the world in complex ways.&amp;quot; — Geoffrey Hinton&#xA;DLVR is a cutting-edge guide that bridges the powerful capabilities of deep learning with the performance and safety of the Rust programming language. This book covers the foundational concepts of deep learning, explores a wide range of neural network architectures, and delves into advanced techniques like model optimization, self-supervised learning, and model interpretability.</description>
+    </item>
+    <item>
+      <title>Preface</title>
+      <link>http://localhost:1313/docs/article-1/</link>
+      <pubDate>Thu, 29 Aug 2024 20:26:24 +0700</pubDate>
+      <guid>http://localhost:1313/docs/article-1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Preface</title>
+      <link>http://localhost:1313/docs/preface/</link>
+      <pubDate>Thu, 29 Aug 2024 22:27:35 +0700</pubDate>
+      <guid>http://localhost:1313/docs/preface/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Foreword</title>
+      <link>http://localhost:1313/docs/foreword/</link>
+      <pubDate>Thu, 29 Aug 2024 22:27:35 +0700</pubDate>
+      <guid>http://localhost:1313/docs/foreword/</guid>
+      <description>💡&#xA;&amp;quot;I was born not knowing and have had only a little time to change that here and there.&amp;quot; — Richard Feynman&#xA;In the field of deep learning, Python has established itself as the de facto standard for neural network implementation, largely due to its user-friendly syntax and extensive libraries. However, in the development of this book, Deep Learning via Rust (DLVR), we have deliberately chosen Rust as the primary programming language.</description>
+    </item>
+    <item>
+      <title>Foreword</title>
+      <link>http://localhost:1313/docs/foreword-1/</link>
+      <pubDate>Thu, 29 Aug 2024 22:27:35 +0700</pubDate>
+      <guid>http://localhost:1313/docs/foreword-1/</guid>
+      <description>💡&#xA;&amp;quot;The important thing is not to stop questioning. Curiosity has its own reason for existing.&amp;quot; — Albert Einstein&#xA;This book, Deep Learning via Rust (DLVR), is an extension of the rigorous academic instruction provided in the Applied Deep Learning course at the Data Science Center (DSC) of the University of Indonesia (UI). The objective of this book is to equip students and practitioners with the most advanced and effective tools for deep learning training and deployment, ensuring they are well-prepared to address the increasingly complex challenges that define the frontier of artificial intelligence and machine learning.</description>
+    </item>
+    <item>
+      <title>Part I</title>
+      <link>http://localhost:1313/docs/part-i/</link>
+      <pubDate>Thu, 29 Aug 2024 22:27:35 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-i/</guid>
+      <description>💡&#xA;&amp;quot;Understanding the foundations of deep learning is like mastering the fundamentals of mathematics — it opens the door to infinite possibilities and applications.&amp;quot; — Yann LeCun&#xA;Part I of DLVR lays the essential groundwork for understanding deep learning by starting with an introduction to the field, explaining its core concepts, history, and the transformative impact it has had across industries. This section then delves into the mathematical foundations critical for grasping deep learning algorithms, covering topics such as linear algebra, calculus, and probability theory, which are crucial for developing and optimizing neural networks.</description>
+    </item>
+    <item>
+      <title>Chapter 1</title>
+      <link>http://localhost:1313/docs/part-i/chapter-1/</link>
+      <pubDate>Thu, 29 Aug 2024 22:27:34 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-i/chapter-1/</guid>
+      <description>📘 Chapter 1: Introduction to Deep Learning link&#xD;💡&#xA;&amp;quot;Deep learning will revolutionize AI, but we must build these systems on foundations that ensure safety, efficiency, and scalability—qualities that languages like Rust can provide.&amp;quot; — Yoshua Bengio&#xA;📘&#xA;Chapter 1 of DLVR offers a rigorous introduction to deep learning and its intersection with Rust programming. It begins with a historical overview, tracing the evolution of deep learning, and establishes foundational principles, including the pivotal role of neural networks and GPUs in training models.</description>
+    </item>
+    <item>
+      <title>Chapter 2</title>
+      <link>http://localhost:1313/docs/part-i/chapter-2/</link>
+      <pubDate>Thu, 29 Aug 2024 22:27:34 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-i/chapter-2/</guid>
+      <description>📘 Chapter 2: Mathematical Foundations for Deep Learning link&#xD;💡&#xA;&amp;quot;Mathematics is the key to unlocking the full potential of Deep Learning. Understanding its foundations is essential to innovating and pushing the boundaries of what AI can achieve.&amp;quot; — Geoffrey Hinton&#xA;📘&#xA;Chapter 2 of DLVR delves into the critical mathematical foundations that underpin deep learning, providing a comprehensive and rigorous exploration of the essential concepts. The chapter begins with a deep dive into linear algebra, covering vectors, matrices, and operations like addition, multiplication, and inversion, with a focus on how these operations support neural network functionality, particularly in forward and backward propagation.</description>
+    </item>
+    <item>
+      <title>Chapter 3</title>
+      <link>http://localhost:1313/docs/part-i/chapter-3/</link>
+      <pubDate>Thu, 29 Aug 2024 22:27:35 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-i/chapter-3/</guid>
+      <description>📘 Chapter 3: Neural Networks and Backpropagation link&#xD;💡&#xA;&amp;quot;Understanding the mechanics of learning in neural networks is key to advancing AI. The ability to implement these ideas in efficient and safe ways, as Rust allows, is the next step forward.&amp;quot; — Geoffrey Hinton&#xA;📘&#xA;Chapter 3 of DLVR provides an in-depth exploration of neural networks and the crucial mechanisms that enable their learning, with a focus on implementing these concepts using Rust.</description>
+    </item>
+    <item>
+      <title>Chapter 4</title>
+      <link>http://localhost:1313/docs/part-i/chapter-4/</link>
+      <pubDate>Thu, 29 Aug 2024 22:27:35 +0700</pubDate>
+      <guid>http://localhost:1313/docs/part-i/chapter-4/</guid>
+      <description>📘 Chapter 4: Deep Learning Crates in Rust Ecosystem link&#xD;💡&#xA;&amp;quot;The tools we use to build intelligent systems must be as robust and efficient as the models themselves. Rust offers a promising foundation for the next generation of AI frameworks.&amp;quot; — Andrew Ng&#xA;📘&#xA;Chapter 4 of &#34;Deep Learning via Rust&#34; (DLVR) delves into the deep learning crates within the Rust ecosystem, providing a comprehensive examination of how Rust&#39;s unique features support AI development.</description>
+    </item>
+    <item>
+      <title>Closing Remark</title>
+      <link>http://localhost:1313/docs/closing-remark/</link>
+      <pubDate>Thu, 29 Aug 2024 22:27:35 +0700</pubDate>
+      <guid>http://localhost:1313/docs/closing-remark/</guid>
+      <description>💡&#xA;&amp;quot;An expert is a man who has made all the mistakes which can be made, in a narrow field.&amp;quot; — Niels Bohr&#xA;In the fast-paced and ever-evolving landscape of Artificial Intelligence and Machine Learning (AI/ML), the ability to master deep learning techniques is a defining characteristic of those who drive innovation and lead in research and development. While proficiency in widely used languages like Python forms a necessary foundation, it is the capability to delve into low-level implementations, optimize performance, and leverage cutting-edge tools like Rust that truly distinguishes leading engineers and researchers.</description>
+    </item>
+  </channel>
+</rss>
